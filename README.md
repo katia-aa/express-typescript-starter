@@ -5,9 +5,9 @@
     A very basic Express and TypeScript starter source code.
     <br />
     <br />
-    <a href="https://github.com/katia-aa/express-typescript-scaffold/issues">Report Bug</a>
+    <a href="https://github.com/katia-aa/express-typescript-starter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/katia-aa/express-typescript-scaffold/issues">Request Feature</a>
+    <a href="https://github.com/katia-aa/express-typescript-starter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo:
 
    ```sh
-   git clone https://github.com/katia-aa/express-typescript-scaffold.git
+   git clone https://github.com/katia-aa/express-typescript-starter.git
    ```
 
 2. Install NPM packages:
@@ -110,7 +110,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/katia-aa/express-typescript-scaffold/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/katia-aa/express-typescript-starter/LICENSE.md) for more information.
 
 ## Acknowledgments
 

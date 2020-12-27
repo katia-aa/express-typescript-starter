@@ -1,7 +1,6 @@
 {
-  "name": "myapp",
-  "version": "0.0.0",
-  "private": true,
+  "name": "express-typescript-starter",
+  "version": "0.1.0",
   "scripts": {
     "dev:start": "nodemon",
     "server:start": "DEBUG=myapp:* npm run dev:start",
