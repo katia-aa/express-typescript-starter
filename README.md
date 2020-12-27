@@ -32,6 +32,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -110,3 +111,7 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/katia-aa/express-typescript-scaffold/LICENSE.md) for more information.
+
+## Acknowledgments
+
+README template from https://github.com/othneildrew/Best-README-Template :heart:
